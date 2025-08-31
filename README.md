@@ -6,6 +6,10 @@ This project predicts **server downtime** using synthetic data that mimics real-
 
 This project is ideal for showcasing **data science, machine learning, and deployment skills** on a resume or portfolio.
 
+---
+Live Project Link : https://server-downtime-prediction.streamlit.app/
+---
+
 ## 🔧 Steps in the Project
 
 ### 1. Dataset
