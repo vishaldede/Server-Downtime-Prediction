@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-This project predicts **server downtime** using synthetic data that mimics real-world server monitoring logs. It demonstrates a **full data science workflow** from dataset creation → cleaning → SQL analysis → exploratory data analysis (EDA) → machine learning → model deployment using **Streamlit**.
+This project predicts **server downtime** using dataset that mimics real-world server monitoring logs. It demonstrates a **full data science workflow** from dataset creation → cleaning → SQL analysis → exploratory data analysis (EDA) → machine learning → model deployment using **Streamlit**.
 
 This project is ideal for showcasing **data science, machine learning, and deployment skills** on a resume or portfolio.
 
